@@ -1,0 +1,4 @@
+-1 Could not find ADB
+-2 Device is not connected
+-3 Device is not powered on and unlocked
+-100 Android API out of date

@@ -1,0 +1,4 @@
+colorama
+pillow
+opencv-python
+uiautomator
